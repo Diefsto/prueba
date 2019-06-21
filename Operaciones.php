@@ -1,6 +1,6 @@
 <?php 
 //
-/**
+/** comentario de prueba
  * 
  */
 class matematica{
