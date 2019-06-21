@@ -1,8 +1,5 @@
 <?php 
-//
-/** 
- * 
- */
+
 class matematica{
 	
 	public static function sumar ($num1,$num2){
