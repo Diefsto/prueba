@@ -1,5 +1,5 @@
 <?php 
-//Se borraron los comentarios anteriores
+//
 /**
  * 
  */
