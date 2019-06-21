@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+//validacion de pruebas git
 <head>
 	<title>Calculadora</title>
 </head>
@@ -23,7 +24,7 @@
 
 <? php
 
-	include ("Operaciones.php");
+	include ("C:\Users\dsoto\Desktop\P\prueba");
 	if (isset($_REQUEST ['calcular'])) {
 		$n1=$_REQUEST['numero1'];
 		$n2=$_REQUEST['numero2'];
