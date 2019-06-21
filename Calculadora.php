@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-//se creo una prueba 2
+
 <html>
 <head>
 	<title>Calculadora</title>
