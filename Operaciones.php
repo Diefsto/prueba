@@ -1,5 +1,5 @@
 <?php 
-//se realizo ueva prueba 
+//Se borraron los comentarios anteriores
 /**
  * 
  */
