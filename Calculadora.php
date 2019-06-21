@@ -6,14 +6,15 @@
 <body>
 	<form method="post" action="Calculadora.php">
 
-	<input type="text" name="Numero1">
+	<input type="text" name="Numero1"><br>
+	<input type="text" name="Numero2"><br>
 	<select name="opciones">
 		<option value="0">Sumar</option>
 		<option value="1">Restar</option>
 		<option value="2">Multiplicar</option>
 		<option value="3">Dividir</option>
 	</select>
-	<input type="text" name="Numero2"><br>
+	<br>
 	<input type="submit" name="calcular" value="Calcular">
 		
 	</form>
