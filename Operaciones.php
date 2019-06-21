@@ -1,4 +1,5 @@
 <?php 
+//Esta clase contien las cuatro operaciones matematicas basicas fundamentales
 
 class matematica{
 	
