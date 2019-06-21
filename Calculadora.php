@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-//validacion de pruebas git
+//Fin de pruebas en git
 <head>
 	<title>Calculadora</title>
 </head>
