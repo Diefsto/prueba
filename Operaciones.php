@@ -1,6 +1,6 @@
 <?php 
-//Esta clase contien las cuatro operaciones matematicas basicas fundamentales
-//prueba git
+#Esta clase contien las cuatro operaciones matematicas basicas fundamentales
+#prueba git
 
 class matematica{
 	
